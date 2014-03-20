@@ -339,7 +339,7 @@ Community::one_level( int level ) {
     {
        totalTimes++;
     }
-    if (totalTimes == 10)
+    if (totalTimes == 1000)
     {
       improvement = false;
     }
